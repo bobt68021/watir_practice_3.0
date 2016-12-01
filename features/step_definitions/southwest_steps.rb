@@ -25,8 +25,10 @@ And(/^I can't choose a departure date from the past$/) do
     page.calendar_tabs.each do |day|
       if Date.parse(day.attribute('carouselfulldate')) < Date.today
         expect(day.span_element(:class => 'screenreader-only').text.include? "Day is not available")
+        expect(day.attribute('class')).to eq 'carouselDisabled'
       else
         expect(day.span_element(:class => 'screenreader-only').text.include? "Change Depart trip date to")
+        expect(day.attribute('class')).to eq('carouselEnabledSodaIneligible').or(eq('carouselTodaySodaIneligible'))
       end
     end
   end

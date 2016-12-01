@@ -10,5 +10,4 @@ class SouthwestHome
   def search
     @browser.button(:id => 'jb-booking-form-submit-button').click
   end
-
 end
