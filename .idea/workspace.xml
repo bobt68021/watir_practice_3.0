@@ -15,7 +15,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Southwest_v_3.0@southwest_step_definitions.coverage" NAME="southwest_step_definitions Coverage Results" MODIFIED="1480602873875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/labs/Southwest_v_3.0/features/step_definitions" MODULE_NAME="Southwest_v_3.0" />
     <SUITE FILE_PATH="coverage/Southwest_v_3.0@southwest_feature.coverage" NAME="southwest.feature Coverage Results" MODIFIED="1480621342409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\Manifest\Documents\labs\watir_practice_v_3.0" MODULE_NAME="Southwest_v_3.0" />
-    <SUITE FILE_PATH="coverage/Southwest_v_3.0@southwest_feature__1_.coverage" NAME="southwest.feature (1) Coverage Results" MODIFIED="1480623241402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/labs/watir_practice_v_3.0" MODULE_NAME="Southwest_v_3.0" />
+    <SUITE FILE_PATH="coverage/Southwest_v_3.0@southwest_feature__1_.coverage" NAME="southwest.feature (1) Coverage Results" MODIFIED="1480626592439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/labs/watir_practice_v_3.0" MODULE_NAME="Southwest_v_3.0" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -59,8 +59,8 @@
       <file leaf-file-name="southwest_steps.rb" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Documents/labs/watir_practice_v_3.0/features/step_definitions/southwest_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+            <state relative-caret-position="827">
+              <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -207,7 +207,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/labs/Southwest_v_3.0" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/labs/pokemon_watir" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
@@ -422,20 +422,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1480602704229</updated>
-      <workItem from="1480602705449" duration="11588000" />
+      <workItem from="1480602705449" duration="15113000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="southwest_feature_(1) - 2016.12.01 at 15h 00m 25s.xml">
-      <configuration name="southwest.feature (1)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="southwest_feature_(1) - 2016.12.01 at 15h 01m 27s.xml">
-      <configuration name="southwest.feature (1)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="southwest_feature_(1) - 2016.12.01 at 15h 05m 17s.xml">
-      <configuration name="southwest.feature (1)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
     <history-entry file="southwest_feature_(1) - 2016.12.01 at 15h 05m 40s.xml">
       <configuration name="southwest.feature (1)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
@@ -457,12 +448,21 @@
     <history-entry file="southwest_feature_(1) - 2016.12.01 at 15h 14m 16s.xml">
       <configuration name="southwest.feature (1)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
+    <history-entry file="southwest_feature_(1) - 2016.12.01 at 15h 57m 44s.xml">
+      <configuration name="southwest.feature (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="southwest_feature_(1) - 2016.12.01 at 16h 09m 40s.xml">
+      <configuration name="southwest.feature (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="southwest_feature_(1) - 2016.12.01 at 16h 10m 03s.xml">
+      <configuration name="southwest.feature (1)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11588000" />
+    <option name="totallyTimeSpent" value="15113000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="2906" height="1754" extended-state="6" />
+    <frame x="-13" y="-13" width="2906" height="1754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20104167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -471,7 +471,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978058" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978058" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978058" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -534,8 +534,8 @@
     </entry>
     <entry file="file://$USER_HOME$/Documents/labs/watir_practice_v_3.0/features/step_definitions/southwest_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+        <state relative-caret-position="827">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
           <folding />
         </state>
       </provider>
